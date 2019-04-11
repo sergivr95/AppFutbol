@@ -3,6 +3,7 @@
     background-image: url(AppImage/backgroundApp.jpg);
     font-family: 'Play', sans-serif;
     background-size: cover;
+    height: 100vh;
     background-attachment: fixed;
 
 }
